@@ -1,0 +1,15 @@
+/**
+*
+* base.css
+* @author - Lameen
+* @date - 09/03/2023
+**/
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+body {
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eeeeee;
+    color: #fffdff;
+}
